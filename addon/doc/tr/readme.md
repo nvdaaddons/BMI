@@ -27,12 +27,15 @@ her zaman doktor veya beslenme uzmanı gibi bir sağlık uzmanına danışılmas
 VKİ Eklentisini NVDA'ya yüklemek için adım adım talimatlar aşağıdaki
 gibidir:
 
-1. Eklenti kurulum dosyasını Eklenti Mağazasından veya [BMI][1] resmi sayfasından indirin.
-Not: Eklenti mağazadan indirilirse kurulum otomatik olarak gerçekleşir. Aksi takdirde aşağıdaki yönergeleri izleyin.
+1. Eklenti kurulum dosyasını Eklenti Mağazasından veya [VKİ][2] resmi
+   sayfasından indirin. Not: Eklenti mağazadan indirilirse kurulum otomatik
+   olarak gerçekleşir. Aksi takdirde aşağıdaki yönergeleri izleyin.
 2. İndirdiğiniz eklentinin üzerinde enter tuşuna basın.
 3. Eklentiyi yüklemek için ekrandaki talimatları izleyin.
 4. NVDA'yı yeniden başlatın.
-5. Araçlar menüsünü açmak için ‘NVDA + N+T” tuşlarına basın ve VKİ Eklentisinin araçlar listesinde yer aldığını doğrulayın.
+5. NVDA menüsünü açmak için "NVDA + N" ve Araçlar menüsünü aktif etmek için
+   de "r" tuşlarına basın. Ardından, Araçlar menüsünde VKİ'ni Hesapla
+   seçeneğinin olduğundan emin olun.
 
 Artık VKİ Eklentisini kullanmaya ve vücut Kitle İndeksinizi doğrudan
 NVDA'dan hesaplamaya hazırsınız. Nasıl kullanılacağı ve ihtiyaçlarınıza göre
@@ -80,7 +83,8 @@ Bu eklenti, GNU Genel Kamu Lisansı [GPL v2] [1] kapsamındadır.
 Bu sürümün mümkün kılınmasına yardımcı olan Rui Fontes, Noelia e Dalen'e
 özel teşekkürler.
 
-[1]: https://www.gnu.org/licenses/gpl-2.0.html [2]:
-https://github.com/EdilbertoFonseca/BMI
+[1]: https://www.gnu.org/licenses/gpl-2.0.html
+
+[2]: https://github.com/EdilbertoFonseca/BMI
 
 [[!tag dev stable]]
