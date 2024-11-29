@@ -3,7 +3,7 @@
 * Tekijä: Edilberto Fonseca <edilberto.fonseca@outlook.com>.
 * Luontipäivä: 11.8.2022
 * Lisenssi: [GPL 2.0][1]
-* Arvostelupäivä: 18.3.2024
+* Arviointipäivä: 18.3.2024
 
 ## Esittely
 
